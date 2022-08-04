@@ -1,0 +1,1048 @@
+[{
+    "id": "creamy-vegan-pasta",
+    "title": "Creamy Vegan Pasta",
+    "subTitle": "This creamy vegan pasta is the perfect weeknight meal! Coated in a tangy, luscious white bean sauce, it's comforting, healthy, and easy to make",
+    "servings": 4,
+    "calories": 300,
+    "recipeScore": 4.7,
+    "categories": [
+      "quick-n-easy",
+	  "healthy-food"
+    ],
+    "difficulty": "Easy",
+    "credits": "Jeanine Donofrio, loveandlemons.com",
+    "mainImage": "https://cdn.loveandlemons.com/wp-content/uploads/2017/10/vegan-pasta.jpg",
+    "images": ["https://cdn.loveandlemons.com/wp-content/uploads/2017/10/IMG_0042.jpg"],
+    "recipeTime": {
+      "prep": {
+        "amount": 10,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 20,
+        "name": "Cook"
+      }
+    },
+    "ingredients": [
+      {
+        "ingredient": "2½ cups small shell pasta"
+      },{
+        "ingredient": "1 tablespoon extra-virgin olive oil"
+      },{
+        "ingredient": "1 small yellow onion",
+        "comment": "chopped"
+      },{
+        "ingredient": "5 cups broccoli florets",
+        "comment": "chopped stems, and leaves (keep stems separate)"
+      },{
+        "ingredient": "¼ cup toasted pine nuts"
+      },{
+        "ingredient": "lemon wedges",
+        "comment": "for serving"
+      }, {
+        "ingredient": "1½ cups cooked white beans",
+        "comment": "drained and rinsed"
+      }, {
+        "ingredient": "¼ cup vegetable broth",
+        "comment": "more as needed"
+      }, {
+        "ingredient": "3 tablespoons fresh lemon juice"
+      }, {
+        "ingredient": "2 tablespoons extra-virgin olive oil"
+      }, {
+        "ingredient": "¼ cup nutritional yeast"
+      }, {
+        "ingredient": "1 garlic clove",
+        "comment": "minced"
+      }, {
+        "ingredient": "¼ teaspoon onion powder"
+      }, {
+        "ingredient": "½ teaspoon sea salt"
+      },{
+        "ingredient": "freshly ground black pepper",
+        "comment": "to taste"
+      }
+    ],
+    "instructions": [
+      "Make the sauce: In a blender, combine the white beans, broth, lemon juice, olive oil, nutritional yeast, garlic, onion powder, salt, and pepper, and blend until smooth. Set aside.",
+      "Bring a large pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Drain and set aside.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium heat. Add the onion and sauté until soft, about 5 minutes.",
+	  "Stir in the chopped broccoli stems and cook for another 3 to 5 minutes or until tender. Add the broccoli florets and leaves and a splash of water or vegetable broth. Cover and turn off the heat.",
+	  "Allow the broccoli to steam for 2 to 3 minutes or until tender but still bright green. Add the pasta, then stir in ¾ of the sauce, adding more broth if the sauce is too dry.",
+	  "Season to taste with more salt, pepper and lemon juice, as desired, and portion into bowls. Divide the remaining sauce onto each bowl. Top with the pine nuts and serve with lemon wedges on the side."
+    ]
+  }, {
+    "id": "jackfruit-vegan-tacos",
+    "title": "Jackfruit Vegan Tacos",
+    "subTitle": "Jackfruit is a great vegan alternative to shredded chicken to use in tacos. These jackfruit tacos are delicious and vegan! Choose your favorite taco toppings, such as lettuce, tomato, cilantro, avocado, vegan cheese, and vegan sour cream.",
+    "servings": 4,
+    "calories": 258,
+    "recipeScore": 3.5,
+    "categories": [
+      "quick-n-easy"
+    ],
+    "difficulty": "Easy",
+    "credits": "Cassidy Carolino, allrecipes.com",
+    "mainImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5053996.jpg",
+    "images": [],
+    "recipeTime": {
+      "prep": {
+        "amount": 10,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 3,
+        "name": "Cook"
+      }
+    },
+    "ingredients": [
+      {
+        "ingredient": "2 cans jackfruit in brine",
+		 "comment": "drained, rinsed, and cut into bite-sized pieces"
+      },{
+        "ingredient": "1 tablespoon vegetable oil"
+      },{
+        "ingredient": "1 tablespoon water",
+        "comment": "or more as needed"
+      },{
+        "ingredient": "2 tablespoons taco seasoning mix",
+        "comment": "or to taste"
+      },{
+        "ingredient": "4 taco shells"
+      },{
+        "ingredient": "½ cup salsa",
+        "comment": "or to taste"
+      }
+    ],
+    "instructions": [
+      "Heat oil in a small saucepan over medium heat. Add jackfruit; cook and stir for 2 to 3 minutes. Add 1 tablespoon water and taco seasoning; stir until well combined, about 1 minute. Add additional water 1 tablespoon at a time as needed.",
+      "Place a small amount of jackfruit in each taco shell; add 2 tablespoons salsa."   
+	]
+  },{
+    "id": "vegan-tuna-salad",
+    "title": "Vegan Tuna Salad",
+    "subTitle": "You can't even tell you are not eating tuna salad. Use as you would in sandwiches.",
+    "servings": 8,
+    "calories": 171,
+    "recipeScore": 4,
+    "categories": [
+      "quick-n-easy"
+    ],
+    "difficulty": "Easy",
+    "credits": "allrecipes.com",
+    "mainImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5053996.jpg",
+    "images": [],
+    "recipeTime": {
+      "prep": {
+        "amount": 10,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 10,
+        "name": "Cook"
+      }
+    },
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil"
+      },{
+        "ingredient": "1 teaspoon sea salt"
+      },{
+        "ingredient": "1 teaspoon white sugar",
+        "comment": "or more as needed"
+      },{
+        "ingredient": "1 teaspoon rice vinegar"
+      },{
+        "ingredient": "1 cup drained canned chickpeas", 
+		"comment": "(garbanzo beans)"
+      },{
+        "ingredient": "½ cup dill pickles",
+		"comment": "chopped"
+      },{
+        "ingredient": "1 stalk celery"
+      },{
+        "ingredient": "¼ cup dried chopped onion"
+      }
+    ],
+    "instructions": [
+      "Blend olive oil and soy milk together in a blender until thickened. Add salt, sugar, and mustard; turn on blender and drizzle vinegar through the opening in the lid until mixture is smooth. Add chickpeas, pickles, celery, onion, and dill; blend until mixture is evenly chopped."   
+	]
+  },{
+    "id": "vegan-borscht",
+    "title": "Vegan Borscht",
+    "subTitle": "A vegan version of a traditional Russian/Ukranian soup.",
+    "servings": 8,
+    "calories": 171,
+    "recipeScore": 4,
+    "categories": [
+      "healthy-food"
+    ],
+    "difficulty": "Easy",
+    "credits": "vivid930, allrecipes.com",
+    "mainImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3246666.jpg&w=596&h=596&c=sc&poi=face&q=60",
+    "images": ["https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F481364.jpg&w=596&h=596&c=sc&poi=face&q=60"],
+    "recipeTime": {
+      "prep": {
+        "amount": 45,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 140,
+        "name": "Cook"
+      }
+    },
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoon olive oil"
+      },{
+        "ingredient": "1 can whole peeled tomatoes"
+      },{
+        "ingredient": "3 cloves garlic",
+        "comment": "minced"
+      },{
+        "ingredient": "½ cup canned peeled and diced tomatoes"
+      },{
+        "ingredient": "1 onion", 
+		"comment": "chopped"
+      },{
+        "ingredient": "2 stalks celery",
+		"comment": "chopped (Optional)"
+      },{
+        "ingredient": "2 carrots",
+		"comment": "chopped (Optional)"
+      },{
+        "ingredient": "2 stalks celery",
+		"comment": "finely chopped"
+      },{
+        "ingredient": "1 green bell pepper",
+		"comment": "chopped"
+      },{
+        "ingredient": "3 beets",
+		"comment": "including greens, diced"
+      },{
+        "ingredient": "2 potatoes",
+		"comment": "quartered"
+      },{
+        "ingredient": "1 cup shredded Swiss chard"
+      },{
+        "ingredient": "2 cups vegetable broth"
+      },{
+        "ingredient": "4 cups water"
+      },{
+        "ingredient": "2 tablespoons dried dill weed"
+      },{
+        "ingredient": "1 package silken tofu"
+      },{
+        "ingredient": "salt and freshly ground black pepper",
+		"comment": "to taste"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tablespoon of olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Set aside. Heat the remaining 3 tablespoons of olive oil in a large pot over medium-high heat. Stir in the celery, carrots, bell pepper, beets including the greens, whole tomatoes, diced tomatoes, potatoes, Swiss chard, and the onion mixture. Cook and stir until the chard begins to wilt, 4 to 8 minutes. Stir in the vegetable broth, water, dill weed, and salt and pepper. Bring to a boil, and reduce heat to low. Simmer for 1 hour.",
+	  "Strain half the beets from the broth and place in a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the beets moving before leaving it on to puree. Add the tofu, and continue pureeing until smooth. Stir the tofu mixture back into the pot. Simmer until the mixture is reduced by a third, about another hour. Serve chilled or warm."
+	
+	]  
+}, {
+    "id": "vegan-pho",
+    "title": "Vegan Pho",
+    "subTitle": "This delicious vegan pho can be served with sliced spring onions, sriracha or chilli sauce and lime wedges and makes a mouth-watering winter main that will warm you from the inside.",
+    "servings": 4,
+    "calories": 723,
+    "recipeScore": 4.4,
+    "categories": [
+      "comfort-food"
+    ],
+    "difficulty": "Medium",
+    "credits": "taste.com.au",
+    "mainImage": "https://img.taste.com.au/6EsMl5c3/w643-h428-cfill-q90/taste/2019/05/vegan-pho-150057-1.jpg",
+    "images": [],
+    "recipeTime": {
+      "prep": {
+        "amount": 20,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 255,
+        "name": "Cook"
+      }
+    },
+    "ingredients": [
+      {
+        "ingredient": "200g dried flat rice noodles"
+      },{
+        "ingredient": "2 x 200g pkts Thai marinated tofu"
+      },{
+        "ingredient": "1 bunch choy sum",
+        "comment": "ends trimmed, cut into 4cm lengths"
+      },{
+        "ingredient": "100g bean sprouts"
+      },{
+        "ingredient": "Mint and Coriander leaves",
+        "comment": "to serve"
+      },{
+        "ingredient": "4 shallots",
+        "comment": "peeled, halved"
+      }, {
+        "ingredient": "5cm-piece ginger",
+        "comment": "peeled, cut into quarters"
+      }, {
+        "ingredient": "1 cinnamon stick or quill"
+      }, {
+        "ingredient": "2 whole star anise"
+      }, {
+        "ingredient": "1 tsp black peppercorns"
+      }, {
+        "ingredient": "1 large carrot",
+        "comment": "peeled, halved"
+      }, {
+        "ingredient": "6 whole garlic cloves"
+      }, {
+        "ingredient": "3/4 cup dried sliced shiitake mushrooms"
+      }, {
+        "ingredient": "4 cups vegan broth"
+      },{
+        "ingredient": "2 tbsp soy sauce"
+      }
+    ],
+    "instructions": [
+      "To make the pho broth, place the shallot and ginger in a frying pan over medium-high heat. Cook, stirring occasionally, for 3 mins or until browned. Add cinnamon, star anise, cloves and peppercorns and cook, stirring, for 1 min or until aromatic. Transfer to a slow cooker. Add carrot, mushroom, stock and 4 cups (1L) water. Cover and cook for 4 hours on high (or 6 hours on low).",
+      "Use a slotted spoon to remove the shallot, ginger, cinnamon and star anise. Discard. Remove carrot. Slice and return to the slow cooker. Stir in the soy sauce.",
+      "Place noodles in a large heatproof bowl and cover with boiling water. Set aside for 5 mins to soak. Drain.",
+	  "Add the tofu, noodles and choy sum to the slow cooker. Cover and cook for 10 mins or until heated through.",
+	  "Divide the noodle mixture among serving bowls. Top with bean sprouts, mint and coriander."
+    ]
+  },{
+    "id": "vegan-burger-in-a-lettuce-bun",
+    "title": "Vegan burger in a lettuce bun",
+    "subTitle": "Make a burger with a twist that's full of crunch and flavour.",
+    "recipeScore": 4,
+    "credits": "taste.com.au",
+    "difficulty": "Easy",
+    "categories": [
+      "quick-n-easy",
+      "junk-food"
+    ],
+    "recipeTime": {
+      "prep": {
+        "amount": 15,
+        "name": "Prep"
+      },
+      "cook": {
+        "amount": 10,
+        "name": "Cook"
+      }
+    },
+    "servings": 4,
+    "calories": "",
+    "ingredients": [
+        {
+            "ingredient": "4 Herb & Sons Beef-Free Burgers"
+        },
+        {
+            "ingredient": "250g cooked baby beetroot",
+            "comment": "drained, chopped"
+        },
+        {
+            "ingredient": "2 tsp tahini"
+        },
+        {
+            "ingredient": "1 tsp ground cumin"
+        },
+        {
+            "ingredient": "2 small iceberg lettuces"
+        },
+        {
+            "ingredient": "2 tbsp vegan mayonnaise"
+        },
+        {
+            "ingredient": "1 Lebanese cucumber",
+            "comment": "peeled into ribbons"
+        },
+        {
+            "ingredient": "2 radishes",
+            "comment": "thinly sliced"
+        },
+        {
+            "ingredient": "Mint leaves",
+            "comment": "to serve"
+        }
+    ],
+    "instructions": [
+        "Heat a chargrill on medium-high. Lightly spray burger patties with olive oil spray. Cook for 4-5 mins each side or until charred and heated through.",
+        "Meanwhile, place the beetroot, tahini and cumin in a food processor and process until smooth. Season.",
+        "Use a large serrated knife to cut 4cm-thick cheeks off each lettuce to make 8 buns.",
+        "Divide half the lettuce among serving plates. Top with the burger patties, mayonnaise, beetroot mixture, cucumber and radish. Sprinkle with mint leaves and top with the remaining lettuce. Serve immediately."
+    ],
+    "images": [],
+    "mainImage": "https://img.taste.com.au/Xap-8kV-/w720-h480-cfill-q80/taste/2019/09/vegan-burger-in-a-lettuce-bun-154173-2.jpg"
+}, {
+  "id": "vegan-quinoa-pilaf",
+  "title": "Vegan quinoa pilaf",
+  "calories": 389,
+  "servings": 4,
+  "recipeTime": {
+      "prep": {
+          "amount": 20,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 20,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Easy",
+  "categories": ["healthy-food"],
+  "subTitle": "Full of spring flavour, this gluten-free broccolini salad is packed with protein, quick, healthy and low-cal. What more could you want?",
+  "ingredients": [
+      {
+          "ingredient": "1 tbsp extra virgin olive oil"
+      },
+      {
+          "ingredient": "1 brown onion",
+          "comment": "finely chopped"
+      },
+      {
+          "ingredient": "2 garlic cloves",
+          "comment": "crushed"
+      },
+      {
+          "ingredient": "200g (1 cup) quinoa",
+          "comment": "rinsed, drained"
+      },
+      {
+          "ingredient": "500ml Vegetable Stock"
+      },
+      {
+          "ingredient": "1 bunch broccolini",
+          "comment": "cut into 3cm pieces, stalks halved if large"
+      },
+      {
+          "ingredient": "1 large corncob",
+          "comment": "kernels removed"
+      },
+      {
+          "ingredient": "1 bunch asparagus",
+          "comment": "trimmed, sliced lengthways"
+      },
+      {
+          "ingredient": "150g sugar snap peas",
+          "comment": "halved lengthways"
+      },
+      {
+          "ingredient": "100g baby spinach"
+      },
+      {
+          "ingredient": "2 tablespoob unsalted pistachio kernels",
+          "comment": "chopped"
+      },
+      {
+          "ingredient": "2 tbsp pomegranate arils"
+      },
+      {
+          "ingredient": "Fresh lime wedges",
+          "comment": "to serve"
+      }
+  ],
+  "instructions": [
+      "Heat the oil in a large saucepan over high heat. Cook onion, stirring occasionally, for 5 minutes or until softened. Add garlic and cook, stirring, for 1 minute or until aromatic.",
+      "Add quinoa and stock. Bring to boil. Reduce heat to low. Cover and simmer for 12 minutes or until almost all stock is absorbed. Add the broccolini, corn, asparagus and peas. Stir to combine. Cover and cook for 2 minutes or until all stock is absorbed. Remove from heat. Set aside, covered, for 3-4 minutes to steam.",
+      "Stir through the spinach and season. Sprinkle the pilaf with the pistachios and pomegranate arils. Serve with lime wedges."
+  ],
+  "mainImage": "https://img.taste.com.au/YWKoZ_Iv/w720-h480-cfill-q80/taste/2020/09/vegan-spring-quinoa-pilaf-165387-1.jpg"
+},{
+  "id": "vegan-sweet-potato-pie",
+  "title": "Vegan sweet potato pie",
+  "calories": 294,
+  "servings": 4,
+  "recipeTime": {
+      "prep": {
+          "amount": 20,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 95,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Medium",
+  "categories": ["comfort-food"],
+  "subTitle": "This protein-packed pie is lighter on the calories and vegan to boot, so you can keep your health kick going while enjoying the comfort foods you love.",
+  "ingredients": [
+      {
+          "ingredient": "1 tbsp extra virgin olive oil"
+      },
+      {
+          "ingredient": "1 red onion",
+          "comment": "finely chopped"
+      },
+      {
+          "ingredient": "1 large carrot",
+          "comment": "finely chopped"
+      },
+      {
+          "ingredient": "3 celery sticks",
+          "comment": "finely chopped"
+      },
+      {
+          "ingredient": "2 garlic cloves",
+          "comment": "crushed"
+      },
+      {
+          "ingredient": "2 tsp sweet paprika"
+      },
+      {
+          "ingredient": "1 tsp dried oregano leaves"
+      },
+      {
+          "ingredient": "2 tbsp no-added-salt tomato paste"
+      },
+      {
+          "ingredient": "400g can four bean mix",
+          "comment": "rinsed, drained"
+      },
+      {
+          "ingredient": "400g can diced tomatoes"
+      },
+      {
+          "ingredient": "400g can lentils",
+          "comment": "rinsed, drained"
+      },
+      {
+          "ingredient": "2 tsp balsamic vinegar"
+      },
+      {
+          "ingredient": "60g baby spinach"
+      },
+      {
+          "ingredient": "250g sweet potato",
+          "comment": "peeled, thinly sliced"
+      },
+      {
+          "ingredient": "250g potatoes",
+          "comment": "peeled, thinly sliced"
+      },
+      {
+          "ingredient": "2 tsp fresh thyme leaves",
+          "comment": "plus thyme sprigs, to serve"
+      }
+  ],
+  "instructions": [
+      "Heat the oil in a 1L flameproof roasting pan over medium heat. Add the onion, carrot and celery. Cook, stirring, for 5-6 minutes or until softened. Add the garlic, paprika and oregano. Cook, stirring, for 1-2 minutes or until aromatic. Add the tomato paste and cook, stirring, for 1 minute. Add the beans, tomato, lentils, balsamic vinegar and 185ml (¾ cup) water. Bring to the boil. Reduce heat to low. Simmer for 10-15 minutes or until the sauce has thickened. Season.",
+      "Preheat the oven to 190°C/170°C fan forced. Top the lentil mixture with the spinach. Arrange the sweet potato and potato over the top of the spinach, overlapping slightly. Spray with oil. Sprinkle with thyme.",
+      "Cover the dish with foil and bake for 20 minutes. Remove the foil and bake for a further 50 minutes or until the potatoes are tender and golden. Sprinkle with thyme sprigs to serve."
+  ],
+  "mainImage": "https://img.taste.com.au/eLCEVF1H/w720-h480-cfill-q80/taste/2021/04/lentil-sweet-potato-pie-170952-2.jpg"
+},{
+  "id": "vegan-chilli-stir-fry",
+  "title": "Vegan chilli stir-fry",
+  "calories": 258,
+  "servings": 4,
+  "recipeTime": {
+      "prep": {
+          "amount": 15,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 15,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Easy",
+  "categories": ["healthy-food"],
+  "subTitle": "From wok to table in under half an hour, this sticky tofu stir-fry is a midweek miracle. It's easy, low-cal and gluten-free, and is packed with veg like broccolini and spinach so it's also high in dietary fibre.",
+  "ingredients": [
+      {
+          "ingredient": "1 tsp chilli paste"
+      },
+      {
+          "ingredient": "2 tbsp salt-reduced gluten-free soy sauce"
+      },
+      {
+          "ingredient": "1 tbsp balsamic vinegar"
+      },
+      {
+          "ingredient": "450g firm tofu",
+          "comment": "drained, cut into 1.5cm pieces"
+      },
+      {
+          "ingredient": "1 tsp gluten-free cornflour"
+      },
+      {
+          "ingredient": "80ml (1/3 cup) vegetable stock"
+      },
+      {
+          "ingredient": "2 tsp macadamia oil"
+      },
+      {
+          "ingredient": "1 red onion",
+          "comment": "cut into thin wedges"
+      },
+      {
+          "ingredient": "4 celery sticks",
+          "comment": "thinly sliced diagonally"
+      },
+      {
+          "ingredient": "1 bunch broccolini",
+          "comment": "cut into long thin florets"
+      },
+      {
+          "ingredient": "1 red capsicum",
+          "comment": "deseeded, thinly sliced"
+      },
+      {
+          "ingredient": "75g baby spinach"
+      },
+      {
+          "ingredient": "300g (2 cups) cooked quinoa",
+          "comment": "about 150g uncooked"
+      }
+  ],
+  "instructions": [
+      "Combine the chilli paste, 1 tbsp soy sauce and 2 tsp vinegar in a shallow glass or ceramic dish. Add the tofu and turn to coat. Set aside, turning occasionally, for 5 minutes to marinate.",
+      "Meanwhile, combine cornflour, remaining soy sauce and vinegar in a small bowl until smooth. Add the stock and stir to combine.",
+      "Heat 1 tsp oil in a wok over high heat. Add the tofu and stir-fry for 2-3 minutes or until golden. Transfer to a plate.",
+      "Heat the remaining oil in the wok then add the onion and celery. Stir-fry for 1-2 minutes or until softened then add the broccolini and capsicum. Stir-fry for 2 minutes or until softened. Return the tofu to the wok. Pour in the stock mixture and stir-fry for 1 minute or until well combined. Add the spinach and stir until just wilted. Serve with the quinoa cooked quinoa."
+  ],
+  "mainImage": "https://img.taste.com.au/nczftDVx/w720-h480-cfill-q80/taste/2021/12/vegan-chilli-stir-fry-175770-2.jpg"
+},{
+  "id": "vegan-sausage-rolls",
+  "title": "Vegan 'sausage' rolls",
+  "calories": 146,
+  "servings": 16,
+  "recipeTime": {
+      "prep": {
+          "amount": 30,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 50,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Easy",
+  "categories": ["junk-food"],
+  "subTitle": "Perfect for parties, footy games and rainy days, everyone can tuck into these crispy, golden vegan and vegetarian-friendly 'sausage' rolls. They're better for you, too!",
+  "ingredients": [
+      {
+          "ingredient": "500g cup mushrooms"
+      },
+      {
+          "ingredient": "1 tbsp extra virgin olive oil"
+      },
+      {
+          "ingredient": "1 brown onion",
+          "comment": "finely chopped"
+      },
+      {
+          "ingredient": "2 garlic cloves",
+          "comment": "crushed"
+      },
+      {
+          "ingredient": "1 tbsp fresh thyme leaves"
+      },
+      {
+          "ingredient": "400g can lentils",
+          "comment": "drained, rinsed"
+      },
+      {
+          "ingredient": "1 tbsp brown flaxseeds"
+      },
+      {
+          "ingredient": "1/2 cup stock"
+      },
+      {
+          "ingredient": "2 tsp dijon mustard"
+      },
+      {
+          "ingredient": "1 cup panko breadcrumbs"
+      },
+      {
+          "ingredient": "2 sheets frozen puff pastry, ",
+          "comment": "partially thawed"
+      },
+      {
+          "ingredient": "2 tbsp almond milk"
+      },
+      {
+          "ingredient": "2 tbsp pepita and sunflower seed mix",
+          "comment": "roughly chopped"
+      },
+      {
+          "ingredient": "Canola oil spray"
+      },
+      {
+          "ingredient": "Tomato sauce",
+          "comment": "to serve"
+      }
+  ],
+  "instructions": [
+      "Place mushrooms in a food processor. Process until finely chopped. Heat oil in a large frying pan over mediumhigh heat. Add onion. Cook for 5 minutes or until softened. Add mushroom. Cook for 5 minutes or until softened. Add garlic and thyme. Cook for 1 minute or until fragrant. Add lentils, flaxseeds and stock. Bring to the boil. Reduce heat to low. Simmer for 5 minutes or until almost all the stock has evaporated. Transfer to a heatproof bowl. Add mustard and breadcrumbs. Season with salt and pepper. Stir to combine. Set aside for 30 minutes to cool.",
+      "Preheat oven to 200C/180C fan-forced. Line 2 large baking trays with baking paper.",
+      "Cut 1 pastry sheet in half to make 2 rectangles. Place ¼ of the mushroom mixture along 1 long edge of each rectangle. Roll up to enclose filling. Repeat with remaining pastry and mushroom mixture. Cut each roll into 4 pieces. Place, seam-side down, on prepared trays. Brush rolls with milk. Sprinkle with seed mixture. Spray with canola oil. Season well with salt and pepper.",
+      "Bake rolls for 25 to 30 minutes or until pastry is golden and puffed. Set aside for 5 minutes to cool slightly. Serve rolls with tomato sauce."
+  ],
+  "mainImage": "https://img.taste.com.au/FH_j-eV9/w720-h480-cfill-q80/taste/2019/05/vegan-sausage-rolls-149829-2.jpg"
+},{
+  "id": "vegan-pancake-recipe",
+  "title": "Vegan pancake recipe",
+  "calories": "",
+  "servings": 12,
+  "recipeTime": {
+      "prep": {
+          "amount": 25,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 25,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Easy",
+  "categories": ["sweets", "junk-food"],
+  "subTitle": "Searching for the best vegan pancakes (no eggs, no milk)? You found it! These easy pancakes are super fluffy and you only need 7 ingredients to whip them up.",
+  "ingredients": [
+      {
+          "ingredient": "2 cups self-raising flour"
+      },
+      {
+          "ingredient": "1/2 cup caster sugar"
+      },
+      {
+          "ingredient": "1 1/2 cups unsweetened rice milk"
+      },
+      {
+          "ingredient": "2 tsp vanilla bean paste"
+      },
+      {
+          "ingredient": "2 tsp baking powder"
+      },
+      {
+          "ingredient": "1 tbsp apple cider vinegar"
+      },
+      {
+          "ingredient": "2 tbsp coconut oil",
+          "comment": "melted"
+      },
+      {
+          "ingredient": "Maple syrup",
+          "comment": "to serve"
+      },
+      {
+          "ingredient": "Mixed berries",
+          "comment": "to serve"
+      },
+      {
+          "ingredient": "Coconut yogurt",
+          "comment": "to serve"
+      }
+  ],
+  "instructions": [
+      "Place flour and sugar in a large bowl. Stir to combine. Make a well. Place milk and vanilla in a large jug. Add baking powder, then vinegar. Lightly whisk with a fork until frothy. Add to well. Stir until mixture is smooth and just combined. Set aside for 15 minutes.",
+      "Heat a large non-stick frying pan over medium-low heat. Brush pan with coconut oil. Spoon 1/4 cup batter into pan, spreading to form a 12cm round. Repeat to make 2 pancakes. Cook for 3 to 4 minutes or until bubbles appear on surface. Turn and cook for 1 to 2 minutes or until cooked through. Transfer to a plate. Cover loosely with foil to keep warm. Repeat with remaining mixture, brushing pan with oil between batches.",
+      "Serve pancakes with maple syrup, mixed berries and yogurt."
+  ],
+  "mainImage": "https://img.taste.com.au/sDy7XU-B/w720-h480-cfill-q80/taste/2018/09/vegan-pancakes-141555-1.jpg"
+},{
+  "id": "vegan-spinach-filo-scroll",
+  "title": "Vegan spinach filo scroll",
+  "calories": 218,
+  "servings": 8,
+  "recipeTime": {
+      "prep": {
+          "amount": 30,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 50,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Medium",
+  "categories": ["comfort-food"],
+  "subTitle": "We've given classic spanakopita a healthier, vegan twist for the summer.",
+  "ingredients": [
+      {
+          "ingredient": "1 1/2 tbsp olive oil"
+      },
+      {
+          "ingredient": "5 spring onions",
+          "comment": "thinly sliced"
+      },
+      {
+          "ingredient": "2 garlic cloves",
+          "comment": "crushed"
+      },
+      {
+          "ingredient": "560g Baby Spinach",
+          "comment": ""
+      },
+      {
+          "ingredient": "300g silken tofu",
+          "comment": "drained, crumbled"
+      },
+      {
+          "ingredient": "1/3 cup (25g) panko breadcrumbs"
+      },
+      {
+          "ingredient": "1 1/2 tbsp nutritional yeast seasoning"
+      },
+      {
+          "ingredient": "10g chopped dill"
+      },
+      {
+          "ingredient": "1 tbsp lemon rind",
+          "comment": "finely grated"
+      },
+      {
+          "ingredient": "15 sheets filo pastry"
+      },
+      {
+          "ingredient": "2 tsp sesame seeds"
+      },
+      {
+          "ingredient": "250g vine-ripened cherry tomatoes"
+      }
+  ],
+  "instructions": [
+      "Preheat oven to 200°C. Line 2 large baking trays with baking paper. Heat 2 tsp of oil in a large, deep frying pan over medium heat. Cook spring onion and garlic, stirring, for 2-3 mins or until spring onion softens. Transfer to a plate.",
+      "Heat 1 tsp of the remaining oil in the pan and add one-quarter of the spinach. Cook, tossing, for 2 mins or until spinach wilts. Transfer to a large bowl. Repeat, in 3 more batches, with remaining oil and spinach. Set aside to cool slightly. Use your hands to squeeze as much liquid from the spinach as possible. Discard the liquid.",
+      "Combine the spinach, spring onion mixture, tofu, breadcrumbs, nutritional yeast seasoning, dill and lemon rind in a large bowl. Season.",
+      "Place the pastry sheets on a clean work surface. Cover with a damp tea towel. Spray 1 sheet with olive oil spray. Top with another sheet and spray with olive oil spray. Top with 1 more sheet and spray with oil. Spoon one-fifth of the spinach mixture along 1 long edge of the stack, leaving a 3cm gap at each end. Roll up to enclose the filling. Arrange, seam-side down, in a coil in the centre of 1 of the lined trays. Repeat with the remaining pastry sheets and spinach mixture to make 4 more rolls. Arrange rolls, seam-side down, on tray to form a coil. Spray with olive oil spray and sprinkle with sesame seeds.",
+      "Place the tomatoes on the remaining lined tray. Spray with olive oil spray. Bake the pastry and tomatoes for 20 mins or until the tomatoes begin to collapse. Transfer the tomatoes to a plate. Cook the pastry for a further 15 mins or until golden brown. Set aside for 10 mins to cool slightly. Cut into wedges and serve with the tomatoes."
+  ],
+  "mainImage": "https://img.taste.com.au/VmWD8u00/taste/2020/11/december20-vegan-spinach-filo-scroll-taste-167621-1.jpg"
+},{
+  "id": "lemon-and-blueberry-vegan-tart",
+  "title": "Lemon and blueberry vegan tart",
+  "calories": "",
+  "servings": 8,
+  "recipeTime": {
+      "prep": {
+          "amount": 15,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 25,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Medium",
+  "categories": ["sweets"],
+  "subTitle": "Believe it or not, but this delicious lemon and blueberry tart is actually vegan! Make it at lunch time and it will be ready for dessert in the evening.",
+  "ingredients": [
+      {
+          "ingredient": "1 1/2 cups (225g) cashews"
+      },
+      {
+          "ingredient": "1 cup (160g) whole almonds"
+      },
+      {
+          "ingredient": "1/4 cup (35g) pistachios"
+      },
+      {
+          "ingredient": "1/2 cup (40g) shredded coconut"
+      },
+      {
+          "ingredient": "Pinch of salt"
+      },
+      {
+          "ingredient": "12 fresh dates",
+          "comment": "pitted, chopped"
+      },
+      {
+          "ingredient": "270ml can coconut cream"
+      },
+      {
+          "ingredient": "1 lemon",
+          "comment": "rind finely grated, juiced"
+      },
+      {
+          "ingredient": "1/3 cup (80ml) maple syrup"
+      },
+      {
+          "ingredient": "Pinch of ground turmeric"
+      },
+      {
+          "ingredient": "Blueberries",
+          "comment": "to decorate"
+      },
+      {
+          "ingredient": "Thyme sprigs",
+          "comment": "to decorate"
+      },
+      {
+          "ingredient": "2 lemons",
+          "comment": "thinly sliced"
+      },
+      {
+          "ingredient": "1/2 cup (110g) caster sugar"
+      }
+  ],
+  "instructions": [
+      "Place the cashews in a large bowl. Pour over enough boiling water to cover. Set aside for 4 hours to soak.",
+      "Lightly grease a 24cm (base measurement) fluted tart tin with removable base. Line the base with baking paper. Place on a baking tray.",
+      "Place almonds, pistachios, shredded coconut and salt in a food processor. Process until finely chopped. Add dates and process until very finely chopped and mixture holds together when pinched. Spoon into prepared tin. Use the back of a metal spoon to push the mixture evenly over base and side of the tin. Place in the freezer to set.",
+      "Drain the cashews and place in a blender. Add coconut cream, lemon rind, lemon juice and maple syrup. Blend until very smooth and creamy. Add turmeric and blend until smooth. Pour into the tart case in tin. Gently tap on the bench to smooth the surface. Place in freezer for 2 hours or until firm.",
+      "Meanwhile, to make the candied lemon, line a baking tray with baking paper. Place lemon, sugar and 11/2 cups (375ml) water in a frying pan. Bring to a simmer over medium heat. Cook, turning lemon occasionally, for 20 mins or until rind is translucent. Transfer the lemon to the lined tray. Increase heat to medium-high. Bring syrup in the pan to the boil. Cook for 3-5 mins or until syrup thickens. Set aside to cool completely.",
+      "Transfer tart to a serving plate. Top with candied lemon, blueberries and thyme. Drizzle with the lemon syrup."
+  ],
+  "mainImage": "https://img.taste.com.au/22211IS-/w1200-h630-cfill/taste/2019/07/lemon-and-blueberry-vegan-tart-taste-151944-2.jpg"
+},{
+  "id": "vegan-chocolate-lava-cakes",
+  "title": "Vegan chocolate lava cakes",
+  "timeAndInfo": "25mprep15mcookmakes6",
+  "calories": 276,
+  "servings": 8,
+  "recipeTime": {
+      "prep": {
+          "amount": 25,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 15,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Medium",
+  "categories": ["sweets"],
+  "subTitle": "These dairy-free lava cakes are made with better-for-you spelt flour and wholesome sweet potato, and they're just as indulgent as the original!",
+  "ingredients": [
+      {
+          "ingredient": "80g (1/2 cup) wholemeal spelt flour"
+      },
+      {
+          "ingredient": "2 1/2 tbsp cocoa powder"
+      },
+      {
+          "ingredient": "1 tsp baking powder"
+      },
+      {
+          "ingredient": "1/4 tsp bicarbonate of soda"
+      },
+      {
+          "ingredient": "30g (1/4 cup) almond meal"
+      },
+      {
+          "ingredient": "150g cooked sweet potato",
+          "comment": "mashed, cooled"
+      },
+      {
+          "ingredient": "60g (1⁄3 cup) coconut sugar"
+      },
+      {
+          "ingredient": "2 tbsp macadamia oil"
+      },
+      {
+          "ingredient": "2 tsp vanilla extract"
+      },
+      {
+          "ingredient": "125ml (1/2 cup) unsweetened almond milk"
+      },
+      {
+          "ingredient": "75g vegan dark chocolate",
+          "comment": "cut into 12 pieces"
+      },
+      {
+          "ingredient": "Vegan vanilla ice-cream or coconut yogurt",
+          "comment": "to serve (optional)"
+      }
+  ],
+  "instructions": [
+      "Preheat the oven to 190C/170C fan forced. Lightly grease six 125ml (1/2 cup) ramekins with oil spray. Line the bases with baking paper.",
+      "Sift the flour, cocoa, baking powder and bicarb into a bowl. Add the almond meal and stir to combine.",
+      "Use electric beaters to beat the sweet potato, sugar, oil and vanilla in a large bowl until thick and smooth. Add the flour mixture and milk, in alternating batches, beginning and ending with the flour mixture, until just combined.",
+      "Divide the mixture among the prepared ramekins. Place 2 pieces of chocolate into the centre of each. Push chocolate one-third of the way into the mixture. Bake for 10 minutes or until cakes are just firm to the touch (do not overcook). Set aside for 1-2 minutes to cool slightly.",
+      "Gently turn the cakes onto serving plates. Serve topped with coconut yogurt or vegan ice-cream, if using."
+  ],
+  "mainImage": "https://img.taste.com.au/SvIEzyaT/w720-h480-cfill-q80/taste/2021/03/vegan-chocolate-lava-cake-170426-1.jpg"
+},{
+  "id": "vegan-pasta-nourish-bowl",
+  "title": "Vegan pasta nourish bowl",
+  "calories": 305,
+  "servings": 4,
+  "recipeTime": {
+      "prep": {
+          "amount": 15,
+          "name": "Prep"
+      },
+      "cook": {
+          "amount": 15,
+          "name": "Cook"
+      }
+  },
+  "images": [],
+  "credits": "taste.com.au",
+  "recipeScore": 4,
+  "difficulty": "Easy",
+  "categories": ["healthy-food", "quick-n-easy"],
+  "subTitle": "Loaded with vegies, wholemeal pasta and tofu, this healthy vegetarian pasta is a perfect low-calorie lunch or dinner.",
+  "ingredients": [
+      {
+          "ingredient": "125g wholemeal spiral pasta"
+      },
+      {
+          "ingredient": "150g sugar snap peas"
+      },
+      {
+          "ingredient": "150g snow peas, trimmed"
+      },
+      {
+          "ingredient": "1 tbsp apple cider vinegar"
+      },
+      {
+          "ingredient": "1 tsp maple syrup"
+      },
+      {
+          "ingredient": "1/4 small red cabbage",
+          "comment": "finely shredded"
+      },
+      {
+          "ingredient": "1 tbsp tahini"
+      },
+      {
+          "ingredient": "1 tbsp fresh lemon juice"
+      },
+      {
+          "ingredient": "2 tsp extra virgin olive oil"
+      },
+      {
+          "ingredient": "1 large carrot",
+          "comment": "peeled, shredded"
+      },
+      {
+          "ingredient": "200g Japanese marinated tofu, ",
+          "comment": "sliced"
+      }
+  ],
+  "instructions": [
+      "Cook pasta in a large saucepan of boiling water following packet instructions, adding the sugar snaps and snow peas in the last minute of cooking. Drain and refresh under cold running water. Transfer to a large bowl.",
+      "Meanwhile, combine vinegar, maple syrup and a large pinch of salt in a bowl. Add cabbage and toss to coat. Set aside for 10 minutes to pickle. Drain.",
+      "Combine tahini, lemon juice, oil and 1-2 tbs warm water in a small bowl until smooth.",
+      "Divide pasta mixture, pickled cabbage, carrot and tofu among serving bowls. Drizzle over the dressing and sprinkle with pepitas."
+  ],
+  "mainImage": "https://img.taste.com.au/1hCsAdbk/w720-h480-cfill-q80/taste/2018/12/vegan-pasta-nourish-bowl-145060-1.jpg"
+}]

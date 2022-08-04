@@ -1,0 +1,7 @@
+[
+    {"imgSrc":"https://media-cdn.tripadvisor.com/media/photo-s/17/35/8c/16/shawarma-royal.jpg", "svg":"/svg/hamburger.svg", "categoryName": "Junk Food", "href": "junk-food", "key": "junk-food"},
+    {"imgSrc":"https://sweetsimplevegan.com/wp-content/uploads/2020/06/Easy-Vegan-Pasta-Primavera-in-pan-sweet-simple-vegan-2.jpg", "svg":"/svg/quick.svg", "categoryName": "Quick N' Easy", "href": "quick-n-easy", "key": "quick-n-easy"},
+    {"imgSrc":"https://images.media-allrecipes.com/userphotos/9444569.jpg", "svg":"/svg/hotpot.svg", "categoryName": "Comfort Food", "href": "comfort-food", "key": "comfort-food"},
+    {"imgSrc":"https://media.istockphoto.com/photos/healhty-vegan-lunch-bowl-avocado-quinoa-tomato-cucumber-red-cabbage-picture-id874029616?k=20&m=874029616&s=612x612&w=0&h=TqdpiUEaMtR8tR1ucxiufNh-cFjv4c6QguhrI1vGoIE=", "svg":"/svg/salad.svg", "categoryName": "Healthy Food", "href": "healthy-food", "key": "healthy-food"},
+    {"imgSrc":"https://jessicainthekitchen.com/wp-content/uploads/2020/05/Vegan-Chocolate-Cake-5.jpg", "svg":"/svg/cake.svg", "categoryName": "Sweets", "href": "sweets", "key": "sweets"}
+]
