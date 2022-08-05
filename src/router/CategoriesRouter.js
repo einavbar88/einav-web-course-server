@@ -1,5 +1,4 @@
 const express = require('express')
-const { grabber } = require('../auxilaryFunctions')
 const Category = require('../models/categoryModel')
 
 const router = new express.Router()

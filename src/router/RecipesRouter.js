@@ -1,19 +1,8 @@
 const express = require('express')
-const { grabber } = require('../auxilaryFunctions')
 const Recipe = require('../models/recipesModel')
 
 const router = new express.Router()
 
-router.post('/post-new-recipe', async (req, res) => {
-    const { url } = req.body
-    try {
-        const json = await grabber(url)
-        res.send(json)
-    }
-    catch (err) {
-        res.status(500).send(err.message)
-    }
-})
 
 router.post('/recipe', async (req, res) => {
     try {
